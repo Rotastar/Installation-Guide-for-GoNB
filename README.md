@@ -4,7 +4,7 @@
 0：安装Docker Desktop前的准备.
 
 开启WSL2/Hyper-v（二者任选其一，我倾向于WSL2）
-二者任选其一即可，
+二者任选其一即可（貌似不开启也能运行？）
 
 1：安装Docker Desktop.
 
