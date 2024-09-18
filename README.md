@@ -1,6 +1,6 @@
 本篇教程用于在Windows系统上使用Docker Desktop on Windows部署GoNB项目的Docker并运行
 该链接为下面可能用到的所有文件的集合下载链接：https://pan.baidu.com/s/1_bmmXI2MVDD9joRWXk2bPQ?pwd=wts9 你可以选择边下载边看本篇教程
---来自百度网盘超级会员V4的分享
+
 0：安装Docker Desktop前的准备.
 
 开启WSL2/Hyper-v（二者任选其一，我倾向于WSL2）
